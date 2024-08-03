@@ -1,3 +1,0 @@
-([('1_run_desktop_app',
-   '/Users/joshualevy/Documents/GitHub/TRACE/old/dist/1_run_desktop_app',
-   'EXECUTABLE')],)
